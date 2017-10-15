@@ -8,7 +8,7 @@ run:
 
 output:
 ```
-	[
+[
   { title: '肖申克的救赎 / The Shawshank Redemption',
     star: '9.6',
     url: 'https://movie.douban.com/subject/1292052/',
