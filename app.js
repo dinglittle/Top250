@@ -9,7 +9,6 @@ function doubanCrawler(url,movies = []){
 // Make a request for a user with a given ID 
 	axios.get(url)
   	.then(function (response) {
-    	console.log(response.data);
    		// https://www.npmjs.com/package/cheerio
     	const $ = cheerio.load(response.data);
     	// 取到  类名为  grid_view 下的  item 元素
