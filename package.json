@@ -1,5 +1,5 @@
 {
-  "name": "doubanCrawler",
+  "name": "douban-crawler",
   "version": "0.0.1",
   "description": "爬虫",
   "main": "app.js",
@@ -16,5 +16,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/dinglittle/Top250.git"
-  },
+  }
 }
